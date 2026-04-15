@@ -1,5 +1,14 @@
-# Project files
-numbers.txt
+node_modules/
+dist/
+unosender.zip
 
-#Media for testing folder
+# wa-js source clone (keep vendors/wa.js itself tracked)
+wa-js/
+
+# Local test data
+numbers.txt
 testing-media/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
