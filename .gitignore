@@ -1,5 +1,4 @@
 node_modules/
-dist/
 unosender.zip
 
 # wa-js source clone (keep vendors/wa.js itself tracked)
